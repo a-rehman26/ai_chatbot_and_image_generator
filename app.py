@@ -104,3 +104,6 @@ elif mode == "Chat with AI":
 
 st.markdown("---")
 st.caption("Developed with Google Gemini API and Streamlit")
+
+st.markdown("---")
+st.caption("Developer : [Abdul Rehman]")
